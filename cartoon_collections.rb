@@ -1,6 +1,6 @@
 def roll_call_dwarves(array)
-  roll_call_dwarves.each do |x,y|
-    puts "#{y}. " << x
+  roll_call_dwarves.each do |x|
+    puts x
   end
 end
 
